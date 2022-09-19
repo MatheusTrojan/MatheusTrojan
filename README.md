@@ -1,7 +1,7 @@
 ## Bem vindo! Me chamo Matheus Trojan!
 
-- 🔭 Atualmente estou estudando para entrar no mundo da programação!
-- 🌱 Estudando no momento: HTML, CSS e Javascript
+Estudando e colocando em prática todos os dias para me tornar um desenvolvedor melhor! <br>
+Estudando no momento: HTML, CSS e Javascript
 
 <div align="center">
   <a href="https://github.com/MatheusTrojan">
