@@ -2,6 +2,7 @@
 
 Estudando e colocando em prática todos os dias para me tornar um desenvolvedor melhor! <br>
 Estudando no momento: HTML, CSS e Javascript
+Iniciando com React 
 
 <div align="center">
   <a href="https://github.com/MatheusTrojan">
