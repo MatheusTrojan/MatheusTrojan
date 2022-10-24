@@ -1,6 +1,6 @@
-## Bem vindo! Me chamo Matheus Trojan!
+## Bem vindo ao meu perfil! Me chamo Matheus Trojan!
 
-🌱 Estudando e colocando em prática todos os dias para me tornar um desenvolvedor melhor! <br>
+🌱 Colocando em prática os aprendizados dos cursos em diversos projetos! <br>
 🚀 Estudando no momento: HTML, CSS e Javascript <br>
 ⚛️ Iniciando com React 
 
