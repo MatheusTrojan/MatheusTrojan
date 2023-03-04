@@ -7,7 +7,6 @@
   <a href="https://github.com/MatheusTrojan">
   <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusTrojan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusTrojan&layout=compact&langs_count=7&theme=github_dark"/>
-  <a height="170em" href="https://github.com/MatheusTrojan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusTrojan&theme=github-dark-blue&hide_border=false" /></a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
